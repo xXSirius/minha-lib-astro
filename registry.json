@@ -557,5 +557,24 @@
     "order": 13,
     "createdAt": "2026-05-27T22:31:05.124Z",
     "updatedAt": "2026-05-27T22:31:05.124Z"
+  },
+  {
+    "id": "faq-3539",
+    "name": "FAQ3539",
+    "category": "FAQ",
+    "description": "Perguntas frequentes",
+    "previewPath": "/preview/faq-3539",
+    "screenshot": "",
+    "componentFile": "FAQ/FAQ3539.astro",
+    "tags": [
+      "FAQ"
+    ],
+    "bestFor": [
+      "Geral"
+    ],
+    "props": [],
+    "order": 14,
+    "createdAt": "2026-05-27T22:34:48.969Z",
+    "updatedAt": "2026-05-27T22:34:48.969Z"
   }
 ]
