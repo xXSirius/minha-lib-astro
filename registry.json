@@ -536,5 +536,26 @@
     "order": 11,
     "createdAt": "2026-05-27T02:42:22.263Z",
     "updatedAt": "2026-05-27T02:42:22.263Z"
+  },
+  {
+    "id": "avaliacoes-google-4520",
+    "name": "AvaliacoesGoogle4520",
+    "category": "Testimonials",
+    "description": "Avaliações do Google com fade nas laterais",
+    "previewPath": "/preview/avaliacoes-google-4520",
+    "screenshot": "",
+    "componentFile": "Testimonials/AvaliacoesGoogle4520.astro",
+    "tags": [
+      "social",
+      "review"
+    ],
+    "bestFor": [
+      "Todas as Landing Pages",
+      "só integrar o design"
+    ],
+    "props": [],
+    "order": 13,
+    "createdAt": "2026-05-27T22:31:05.124Z",
+    "updatedAt": "2026-05-27T22:31:05.124Z"
   }
 ]
