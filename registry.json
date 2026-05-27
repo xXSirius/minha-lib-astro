@@ -7,15 +7,49 @@
     "previewPath": "/preview/header-simples",
     "screenshot": "",
     "componentFile": "Header/HeaderSimples.astro",
-    "tags": ["header", "navbar", "menu", "navegacao"],
-    "bestFor": ["toda landing page"],
+    "tags": [
+      "header",
+      "navbar",
+      "menu",
+      "navegacao"
+    ],
+    "bestFor": [
+      "toda landing page"
+    ],
     "props": [
-      { "name": "brandName", "type": "string", "required": true },
-      { "name": "brandHref", "type": "string", "required": false, "default": "/" },
-      { "name": "links", "type": "array", "required": false, "description": "Array de {label, href}" },
-      { "name": "ctaLabel", "type": "string", "required": false },
-      { "name": "ctaHref", "type": "string", "required": false, "default": "#contato" },
-      { "name": "transparent", "type": "boolean", "required": false }
+      {
+        "name": "brandName",
+        "type": "string",
+        "required": true
+      },
+      {
+        "name": "brandHref",
+        "type": "string",
+        "required": false,
+        "default": "/"
+      },
+      {
+        "name": "links",
+        "type": "array",
+        "required": false,
+        "description": "Array de {label, href}"
+      },
+      {
+        "name": "ctaLabel",
+        "type": "string",
+        "required": false
+      },
+      {
+        "name": "ctaHref",
+        "type": "string",
+        "required": false,
+        "default": "#contato"
+      },
+      {
+        "name": "transparent",
+        "type": "boolean",
+        "required": false
+      }
     ],
     "order": -1,
     "createdAt": "2026-05-27T00:00:00.000Z",
@@ -502,24 +536,5 @@
     "order": 11,
     "createdAt": "2026-05-27T02:42:22.263Z",
     "updatedAt": "2026-05-27T02:42:22.263Z"
-  },
-  {
-    "id": "avaliacoes-google-4249",
-    "name": "AvaliacoesGoogle4249",
-    "category": "Testimonials",
-    "description": "teste de seção",
-    "previewPath": "/preview/avaliacoes-google-4249",
-    "screenshot": "",
-    "componentFile": "Testimonials/AvaliacoesGoogle4249.astro",
-    "tags": [
-      "review"
-    ],
-    "bestFor": [
-      "Avaliações"
-    ],
-    "props": [],
-    "order": 12,
-    "createdAt": "2026-05-27T02:45:23.304Z",
-    "updatedAt": "2026-05-27T02:45:23.304Z"
   }
 ]
